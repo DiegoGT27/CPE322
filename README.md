@@ -12,6 +12,8 @@ After successful completion of this course, students will be able to:
 - Make informed ethical decisions
 - Hone written and oral communication skills
 
+---
+Follow my [Linkind](www.linkedin.com/in/dgiraldotabares)
 *Something*
 > me
 1. me
@@ -19,7 +21,6 @@ After successful completion of this course, students will be able to:
 3. s
 
 `ddd`
-  ---
-  [Linkind](www.linkedin.com/in/dgiraldotabares)
+
   
 
