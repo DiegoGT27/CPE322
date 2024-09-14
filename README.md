@@ -12,13 +12,18 @@ After successful completion of this course, students will be able to:
 - Make informed ethical decisions
 - Hone written and oral communication skills
 
+**GRADING**
+1. *Attendance:* 15%
+2. *Weekly assignments:* 75%
+3. *Labs:* 10%
+
+*Total:* 100%
+
 ---
 Follow my [Linkind](www.linkedin.com/in/dgiraldotabares)
-*Something*
+
 > me
-1. me
-2. a
-3. s
+
 
 `ddd`
 
