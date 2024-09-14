@@ -17,15 +17,18 @@ After successful completion of this course, students will be able to:
 2. *Weekly assignments:* 75%
 3. *Labs:* 10%
 
-*Total:* 100%
+   *Total:* 100%
+
+> Important
+
+`ddd`
 
 ---
 Follow my [Linkind](www.linkedin.com/in/dgiraldotabares)
 
-> me
+![Engineering!](
 
 
-`ddd`
 
   
 
