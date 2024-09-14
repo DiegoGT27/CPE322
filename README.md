@@ -19,12 +19,11 @@ After successful completion of this course, students will be able to:
 
    *Total:* 100%
 
-> Important
+> Follow my [Linkind](www.linkedin.com/in/dgiraldotabares)
 
-`ddd`
+`cout << "Hello World!" << endl;`
 
 ---
-Follow my [Linkind](www.linkedin.com/in/dgiraldotabares)
 
 ![Engineering!](Image1.png)
 
