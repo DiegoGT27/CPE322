@@ -19,7 +19,7 @@ After successful completion of this course, students will be able to:
 
    *Total:* 100%
 
-> Follow my [Linkind](www.linkedin.com/in/dgiraldotabares)
+> Follow my [Linkind](https://www.linkedin.com/in/dgiraldotabares)
 
 `cout << "Hello World!" << endl;`
 
